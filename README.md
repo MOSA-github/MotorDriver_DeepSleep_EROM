@@ -1,0 +1,2 @@
+# MotorDriver_DeepSleep_EROM
+自動水やり装置に組み込んだmotordriverをdeepsleep込みで動作させる．また起動回数をEROMで記録する．
